@@ -6,7 +6,7 @@
   - GIT (GitLab, GitHub);
   - Linux (Ubuntu)
 - 🌐 Languages: Russian, Ukrainian, English<br>
-- 🤓 Going to learn:
+- 🔍 Going to learn:
   - GO, Kotlin, TypeScript, C#
   - FastAPI, Django, aiohttp, Kubernetes, PyTorch, TensorFlow, NumPy.
   - Docker, Swagger, PostgreSQL, Redis, MongoDB.
