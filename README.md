@@ -11,6 +11,7 @@
 ### My projects:
 - [DTB](https://discord.gg/ZWfHS8P7GU)
 - [SquadsBot](https://squadsbot.ru/)
+- [РКСИ Планшетка](https://t.me/RKSIplanshetkabot)
 
 
 <!--
