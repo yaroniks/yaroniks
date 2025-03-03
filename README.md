@@ -1,15 +1,7 @@
+### Hi there
 
-root@github:~# cd /var/users/yarovich
-
-root@github:/var/users/yarovich# ls
-
-info.txt
-
-root@github:/var/users/yarovich# cat info.txt
-
-Yarovich, backend developer.
-
-Stack: Python (Aiogram, Discord.py, Flask, SQLAlchemy), Java (Spring), SQL, GIT (GitLab, GitHub), Linux
+Backend developer<br>
+Stack: Python (Aiogram, Discord.py, Flask, SQLAlchemy), Java (Spring), SQL, GIT (GitLab, GitHub), Linux<br>
 
 
 <!--
