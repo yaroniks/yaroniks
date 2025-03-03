@@ -1,14 +1,10 @@
 ```
 root@github:~# cd /var/users/yarovich
 root@github:/var/users/yarovich# ls
-info.json
-root@github:/var/users/yarovich# cat info.json
-{
-  "name": "Yarovich",
-  "stack": ["Python (Aiogram, Discord.py, Flask, SQLAlchemy)", "Java (Spring)", "SQL", "GIT (GitLab, GitHub)", "Linux"],
-  "country": "Russian Federation",
-  "languages": ["Russian", "Ukrainian", "English"]
-}
+info.txt
+root@github:/var/users/yarovich# cat info.txt
+Yarovich, backend developer.
+Stack: Python (Aiogram, Discord.py, Flask, SQLAlchemy), Java (Spring), SQL, GIT (GitLab, GitHub), Linux
 ```
 
 <!--
