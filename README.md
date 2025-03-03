@@ -1,7 +1,11 @@
 ### Backend + bot developer
 
 - ⚙ Stack:
-  - Python (Aiogram, Discord.py, Flask, SQLAlchemy), Java (Spring), SQL, GIT (GitLab, GitHub), Linux<br>
+  - Python (Aiogram, Discord.py, Flask, SQLAlchemy);
+  - Java (Spring);
+  - SQL (PostgreSQL, SQLite);
+  - GIT (GitLab, GitHub);
+  - Linux (Ubuntu)
 - 🌐 Languages: Russian, Ukrainian, English<br>
 
 ### My projects:
