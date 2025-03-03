@@ -1,5 +1,4 @@
 ### ⚡ Backend + bot developer
-
 - ⚙ Stack:
   - Python (Aiogram, Discord.py, Flask, SQLAlchemy);
   - Java (Spring);
