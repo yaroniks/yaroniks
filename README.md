@@ -8,8 +8,8 @@
 
 ### 🔍 Going to learn:
   - GO, Kotlin, TypeScript, C#.
-  - FastAPI, Django, aiohttp, Kubernetes, PyTorch, TensorFlow, NumPy.
-  - Docker, Swagger, PostgreSQL, Redis, MongoDB.
+  - FastAPI, Django, aiohttp, PyTorch, TensorFlow, NumPy.
+  - Docker, Kubernetes, Swagger, PostgreSQL, Redis, MongoDB.
 
 ### ✨ My projects:
 - [DTB](https://discord.gg/ZWfHS8P7GU)
