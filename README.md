@@ -5,7 +5,7 @@
   - SQL (SQLite);
   - GIT (GitLab, GitHub);
   - Linux (Ubuntu)
-- 🌐 Languages: Russian, Ukrainian, English<br>
+- 🌍 Languages: Russian, Ukrainian, English<br>
 - 🔍 Going to learn:
   - GO, Kotlin, TypeScript, C#
   - FastAPI, Django, aiohttp, Kubernetes, PyTorch, TensorFlow, NumPy.
