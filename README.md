@@ -1,4 +1,14 @@
-## Hi there 👋
+```bash
+root@github:~# cd /var/users/yarovich
+root@github:/var/users/yarovich# ls
+info.json
+root@github:/var/users/yarovich# cat info.json
+{
+  "name": "Yarovich",
+  "stack": "Python (Aiogram, Discord.py, Flask, SQLAlchemy), Java (Spring), SQL, GIT (GitLab, GitHub), Linux",
+  "country": "Russian Federation",
+}
+```
 
 <!--
 **yaroniks/yaroniks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
