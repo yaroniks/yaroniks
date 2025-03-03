@@ -4,13 +4,10 @@
 - Java (Spring);
 - SQL (SQLite);
 - GIT (GitLab, GitHub);
-- Linux (Ubuntu)
-
-### 🌍 Languages: 
-Russian, Ukrainian, English<br>
+- Linux (Ubuntu);
 
 ### 🔍 Going to learn:
-  - GO, Kotlin, TypeScript, C#
+  - GO, Kotlin, TypeScript, C#.
   - FastAPI, Django, aiohttp, Kubernetes, PyTorch, TensorFlow, NumPy.
   - Docker, Swagger, PostgreSQL, Redis, MongoDB.
 
