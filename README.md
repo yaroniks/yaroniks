@@ -5,8 +5,9 @@ info.json
 root@github:/var/users/yarovich# cat info.json
 {
   "name": "Yarovich",
-  "stack": "Python (Aiogram, Discord.py, Flask, SQLAlchemy), Java (Spring), SQL, GIT (GitLab, GitHub), Linux",
+  "stack": ["Python (Aiogram, Discord.py, Flask, SQLAlchemy)", "Java (Spring)", "SQL", "GIT (GitLab, GitHub)", "Linux"],
   "country": "Russian Federation",
+  "languages": ["Russian", "Ukrainian", "English"]
 }
 ```
 
