@@ -1,4 +1,4 @@
-```bash
+```
 root@github:~# cd /var/users/yarovich
 root@github:/var/users/yarovich# ls
 info.json
