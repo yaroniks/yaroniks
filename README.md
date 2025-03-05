@@ -2,12 +2,13 @@
 ### ⚙ Stack:
 - Python (Aiogram, Discord.py, Flask, SQLAlchemy);
 - Java (Spring);
+- JavaScript;
 - SQL (SQLite);
 - GIT (GitLab, GitHub);
 - Linux (Ubuntu);
 
 ### 🔍 Going to learn:
-  - GO, Kotlin, TypeScript, C#.
+  - GO, Kotlin, TypeScript, C#, PHP.
   - FastAPI, Django, aiohttp, PyTorch, TensorFlow, NumPy.
   - Docker, Kubernetes, Swagger, PostgreSQL, Redis, MongoDB.
 
