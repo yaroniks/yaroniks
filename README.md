@@ -7,7 +7,7 @@
 - Linux (Ubuntu);
 
 ### 🔍 Going to learn:
-  - GO, Kotlin, TypeScript, C#, PHP.
+  - GO, Kotlin, C#, PHP.
   - FastAPI, Django, aiohttp, PyTorch, TensorFlow, NumPy.
   - Docker, Kubernetes, Swagger, PostgreSQL, Redis, MongoDB.
 
