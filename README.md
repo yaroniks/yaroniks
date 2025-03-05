@@ -2,7 +2,6 @@
 ### ⚙ Stack:
 - Python (Aiogram, Discord.py, Flask, SQLAlchemy);
 - Java (Spring);
-- JavaScript;
 - SQL (SQLite);
 - GIT (GitLab, GitHub);
 - Linux (Ubuntu);
