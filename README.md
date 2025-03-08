@@ -1,6 +1,6 @@
 ### ⚡ Backend + bot developer
 ### ⚙ Stack:
-- Python (Aiogram, Discord.py, Flask, SQLAlchemy);
+- Python (Aiogram, Discord.py, Flask, SQLAlchemy, FastAPI, Swagger);
 - Java (Spring);
 - SQL (SQLite);
 - GIT (GitLab, GitHub);
@@ -8,8 +8,8 @@
 
 ### 🔍 Going to learn:
   - GO, Kotlin, C#, PHP.
-  - FastAPI, Django, aiohttp, PyTorch, TensorFlow, NumPy.
-  - Docker, Kubernetes, Swagger, PostgreSQL, Redis, MongoDB.
+  - Django, aiohttp, PyTorch, TensorFlow, NumPy.
+  - Docker, Kubernetes, PostgreSQL, Redis, MongoDB.
 
 ### ✨ My projects:
 - [DTB](https://discord.gg/ZWfHS8P7GU)
