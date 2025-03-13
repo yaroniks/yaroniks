@@ -1,13 +1,13 @@
 ### ⚡ Backend + bot developer
 ### ⚙ Stack:
 - Python (Aiogram, Discord.py, Flask, SQLAlchemy, FastAPI, Swagger);
-- Java (Spring);
+- Java (Spring), JavaScript, GO;
 - SQL (SQLite);
 - GIT (GitLab, GitHub);
 - Linux (Ubuntu);
 
 ### 🔍 Going to learn:
-  - GO, Kotlin, C#, PHP.
+  - Kotlin, C#, PHP.
   - Django, aiohttp, PyTorch, TensorFlow, NumPy.
   - Docker, Kubernetes, PostgreSQL, Redis, MongoDB.
 
