@@ -1,7 +1,9 @@
 ### ⚡ Backend + bot developer
 ### ⚙ Stack:
 - Python (Aiogram, Discord.py, Flask, SQLAlchemy, FastAPI, Swagger);
-- Java (Spring), JavaScript, GO;
+- Java (Spring);
+- JavaScript;
+- GO;
 - SQL (SQLite);
 - GIT (GitLab, GitHub);
 - Linux (Ubuntu);
