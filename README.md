@@ -1,14 +1,13 @@
 ### ⚡ Backend developer
 ### ⚙ Stack:
 - Python (Aiogram, Discord.py, SQLAlchemy, FastAPI, Swagger);
-- JavaScript;
 - SQL (SQLite);
 - GIT (GitLab, GitHub);
 - Linux (Ubuntu);
 
 ### 🔍 Going to learn:
-  - GO, Java, Kotlin, C#, PHP.
-  - Django, aiohttp, PyTorch, TensorFlow, NumPy.
+  - Node.js, GO, Java, Kotlin, C#, PHP.
+  - Django, aiohttp, PyTorch, TensorFlow, NumPy, Express.
   - Docker, Kubernetes, PostgreSQL, Redis, MongoDB.
 
 ### ✨ My projects:
