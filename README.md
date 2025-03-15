@@ -6,27 +6,14 @@
 - Linux (Ubuntu);
 
 ### 🔍 Going to learn:
-  - Node.js, GO, Java, Kotlin, C#, PHP.
-  - Django, aiohttp, PyTorch, TensorFlow, NumPy, Express.
-  - Docker, Kubernetes, PostgreSQL, Redis, MongoDB.
+  - Node.js, GO, Java.
+  - Express, Spring, Django, aiohttp.
+  - Redis, Docker, PostgreSQL, Kubernetes.
 
 ### ✨ My projects:
 - [DTB](https://discord.gg/ZWfHS8P7GU)
 - [SquadsBot](https://squadsbot.ru/)
 - [РКСИ Планшетка](https://t.me/RKSIplanshetkabot)
 
-
-<!--
-**yaroniks/yaroniks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📞 Contact me
+- Telegram: [@Yarovich](https://t.me/Yarovich)
