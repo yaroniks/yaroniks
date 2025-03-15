@@ -15,5 +15,5 @@
 - [SquadsBot](https://squadsbot.ru/)
 - [РКСИ Планшетка](https://t.me/RKSIplanshetkabot)
 
-### 📞 Contact me
+### 📞 Contact me:
 - Telegram: [@Yarovich](https://t.me/Yarovich)
