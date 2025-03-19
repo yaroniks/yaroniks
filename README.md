@@ -8,7 +8,7 @@
 ### 🔍 Going to learn:
   - Node.js, GO, Java.
   - aiohttp, Express, Gin, Spring.
-  - Redis, Docker, PostgreSQL, Kubernetes.
+  - Redis, PostgreSQL, Docker, Kubernetes.
 
 ### ✨ My projects:
 - [DTB](https://discord.gg/ZWfHS8P7GU)
