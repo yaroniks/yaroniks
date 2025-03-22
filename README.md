@@ -7,7 +7,7 @@
 
 ### 🔍 Going to learn:
   - Node.js, GO, Java.
-  - aiohttp, Express, Gin, Spring.
+  - RabbitMQ, aiohttp, Express, Gin, Spring.
   - Redis, PostgreSQL, Docker, Kubernetes.
 
 ### ✨ My projects:
