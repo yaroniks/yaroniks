@@ -1,6 +1,6 @@
 ### ⚡ Backend developer
 ### ⚙ Stack:
-- Python (Aiogram, SQLAlchemy, FastAPI, RabbitMQ);
+- Python (Aiogram, SQLAlchemy, FastAPI, RabbitMQ, MongoDB);
 - SQL (SQLite);
 - GIT (GitLab, GitHub);
 - Linux (Ubuntu);
