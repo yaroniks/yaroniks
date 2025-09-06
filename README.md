@@ -1,6 +1,6 @@
 ### ⚡ Backend developer
 ### ⚙ Stack:
-- Python (Aiogram, SQLAlchemy, FastAPI, RabbitMQ, MongoDB);
+- Python (Aiogram, SQLAlchemy, FastAPI, RabbitMQ, MongoDB, PostgreSQL);
 - SQL (SQLite);
 - GIT (GitLab, GitHub);
 - Linux (Ubuntu);
@@ -9,7 +9,7 @@
 ### 🔍 Going to learn:
   - Node.js, GO, Java.
   - aiohttp, Express, Gin, Spring.
-  - Redis, PostgreSQL, Kubernetes.
+  - Redis, Kubernetes.
 
 ### ✨ My projects:
 - [DTB](https://discord.gg/ZWfHS8P7GU)
