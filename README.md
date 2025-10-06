@@ -16,6 +16,7 @@
 - [SquadsBot](https://squadsbot.ru/)
 - [РКСИ Планшетка](https://t.me/RKSIplanshetkabot)
 - [ClefAI](https://clef-ai.ru/)
+- [Fusion, Fusionway bots](https://discord.gg/fusionstore)
 
 ### 📞 Contact me:
 - Telegram: [@Yarovich](https://t.me/Yarovich)
