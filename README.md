@@ -7,13 +7,12 @@
 - Docker;
 
 ### 🔍 Going to learn:
-  - Java;
-  - aiohttp, Spring;
-  - Redis, Kubernetes;
+- Java Spring;
+- Redis, Kubernetes;
 
 ### ✨ My projects:
 - [DTB](https://discord.gg/ZWfHS8P7GU)
-- [SquadsBot](https://squadsbot.ru/)
+- [SquadsBot](http://squadsbot.ru/)
 - [РКСИ Планшетка](https://t.me/RKSIplanshetkabot)
 - [Fusion, Fusionway bots](https://discord.gg/fusionstore)
 
