@@ -1,6 +1,6 @@
 ### ⚡ Backend developer
 ### ⚙ Stack:
-- Python (Aiogram, FastAPI, SQLAlchemy, Alembic, RabbitMQ);
+- Python (Aiogram, FastAPI, SQLAlchemy, RabbitMQ, Alembic);
 - Java (Spring boot, Hibernate);
 - DataBase (SQLite, PostgreSQL, MongoDB);
 - Linux (Ubuntu);
