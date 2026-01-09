@@ -13,4 +13,4 @@
 - [Fusion, Fusionway bots](https://discord.gg/fusionstore)
 
 ### 📞 Contact me:
-- Telegram: [@Yarovich](https://t.me/Yarovich)
+- Telegram: [@yarovich](https://t.me/yarovich)
