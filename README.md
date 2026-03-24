@@ -11,6 +11,7 @@
 - [РКСИ Планшетка бот](https://t.me/RKSIplanshetkabot)
 - [Планшетка приложение](https://github.com/RanVix/RKSIPlanshetkaMobile)
 - [Fusion, Fusionway bots](https://discord.gg/fusionstore)
+- [SparkNews](https://github.com/yaroniks/Cookie2026)
 
 ### 📞 Contact me:
 - Telegram: [@yarovich](https://t.me/yarovich)
