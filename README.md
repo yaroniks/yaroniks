@@ -15,4 +15,4 @@
 - [Cookie Ci Travel](https://github.com/yaroniks/CookieCiTravel_Backend) - хакатон, путешествия по Ростовской области
 
 ### 📞 Contact me:
-- Telegram: [@yarovich](https://t.me/yarovich)
+- Telegram: [@yarovich](https://telegram.me/yarovich)
